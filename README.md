@@ -6,7 +6,9 @@ Building an AI powerhouse with immense computational strength and an adaptable, 
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
-- [Challenges](#challenges) 
+- [Challenges](#challenges)
+- [Guide](#guide)
+- [Roadmap](#roadmap) 
 
 # Description
 
