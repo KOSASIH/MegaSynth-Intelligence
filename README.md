@@ -7,6 +7,7 @@ Building an AI powerhouse with immense computational strength and an adaptable, 
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Challenges](#challenges)
+- [Contributor Guide](#contributor-guide) 
 - [Guide](#guide)
 - [Roadmap](#roadmap) 
 
@@ -103,6 +104,118 @@ MegaSynth Intelligence focuses on addressing a range of challenges across indust
 8. **Industry-Specific Challenges**: Tailoring solutions to address sector-specific challenges across healthcare, finance, manufacturing, and more.
 
 MegaSynth Intelligence is committed to addressing these challenges by providing actionable insights and solutions derived from comprehensive data analysis, aiding industries and decision-makers in making informed and impactful decisions.
+
+# Contributor Guide
+
+### MegaSynth Intelligence Contributor Guide
+
+Thank you for your interest in contributing to MegaSynth Intelligence. Your contributions play a crucial role in advancing our mission to transform data into actionable insights. Please read this guide thoroughly to understand the contribution process.
+
+---
+
+### Table of Contents
+
+1. **Introduction**
+2. **Getting Started**
+    - Setting up the Development Environment
+    - Forking the Repository
+    - Cloning the Repository
+3. **Contributing**
+    - Types of Contributions
+    - Coding Guidelines
+    - Commit Message Guidelines
+    - Pull Request Process
+    - Review Process
+4. **Testing**
+    - Running Tests
+    - Writing Test Cases
+5. **Documentation**
+    - Writing Documentation
+    - Updating READMEs and Docs
+6. **Code of Conduct**
+7. **Contact Information**
+8. **Acknowledgements**
+
+---
+
+### 1. Introduction
+
+MegaSynth Intelligence is an open-source project dedicated to transforming vast and complex datasets into actionable insights. Your contributions are valued and encouraged.
+
+### 2. Getting Started
+
+#### Setting up the Development Environment
+
+To contribute, ensure your system meets the prerequisites outlined in the README file. Use Python 3.x and the latest versions of the necessary libraries.
+
+#### Forking the Repository
+
+Fork the MegaSynth Intelligence repository to begin making changes and contributing.
+
+#### Cloning the Repository
+
+Clone your forked repository to your local system using Git.
+
+### 3. Contributing
+
+#### Types of Contributions
+
+- Bug Fixes
+- New Features
+- Documentation Updates
+- Performance Enhancements
+
+#### Coding Guidelines
+
+Follow the coding style and guidelines documented in the project's repository to maintain consistency across the codebase.
+
+#### Commit Message Guidelines
+
+Use clear and descriptive commit messages following the outlined format.
+
+#### Pull Request Process
+
+1. Create a new branch for your changes.
+2. Make your changes, commit, and push to your fork.
+3. Create a pull request with a descriptive title and detailed information on the changes.
+
+#### Review Process
+
+Your pull request will undergo review by the maintainers. Address any feedback or comments promptly to expedite the merging process.
+
+### 4. Testing
+
+#### Running Tests
+
+Ensure your changes do not break existing functionality. Run the test suite locally before submitting a pull request.
+
+#### Writing Test Cases
+
+If introducing new features, write corresponding test cases to maintain code quality.
+
+### 5. Documentation
+
+#### Writing Documentation
+
+Update or create documentation for new features or changes made. Ensure clarity and accuracy in the documentation.
+
+#### Updating READMEs and Docs
+
+Keep the project's README file and other documentation up-to-date with the latest information.
+
+### 6. Code of Conduct
+
+Adhere to the project's Code of Conduct to create a welcoming and inclusive environment for all contributors.
+
+### 7. Contact Information
+
+For any queries or assistance, reach out to the maintainers via email or through the GitHub repository's issues section.
+
+### 8. Acknowledgements
+
+Thank you for considering contributing to MegaSynth Intelligence.
+
+---
 
 # Guide 
 
